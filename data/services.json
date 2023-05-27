@@ -1,0 +1,44 @@
+[
+    {
+      "id": "01",
+      "image": "https://images.unsplash.com/photo-1524684009724-bee13ad8305f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=415&q=80",
+      "name": "Regular Lab",
+      "headings": "Moon Hospital & Private Clinic has got the excellent lab support and works synergistically with the Hospital in order to provide prompt and efficient clinical lab services to the patients.",
+      "details": "Moon Hospital & Private Clinic has got the excellent lab support and works synergistically with the Hospital in order to provide prompt and efficient clinical lab services to the patients.The laboratory support does cover not the very specific needs but also other associated medical conditions that a  patient may have simultaneously with diseases. The lab support covers almost all the medical conditions that require of the tests."
+    },
+    {
+      "id": "02",
+      "image": "https://images.unsplash.com/photo-1516841273335-e39b37888115?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=847&q=80",
+      "name": "Emergency Lab Support",
+      "headings": "Moon Hospital gains from the extra-ordinary laboratory support from The Emergency Lab that stands unique in Bangladesh as it mirrors our commitment and dedication to serve the  patients.",
+      "details": "Moon Hospital gains from the extra-ordinary laboratory support from The Emergency Lab that stands unique in Bangladesh as it mirrors our commitment and dedication to serve the  patients.It remains open round-the-clock, 7 days a week and 365 days a year. The Emergency Lab is independent of the routine medical laboratory services being provided at this Hospital.It ensures prompt and precise lab tests that aid in prompt diagnosis of critically ill patients."
+    },
+    {
+      "id": "03",
+      "image": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
+      "name": "Health Check-up",
+      "headings": "Moon Hospital & Private Clinic has got the excellent lab support and works synergistically with the Hospital in order to provide prompt and efficient clinical lab services to the patients.",
+      "details": "Moon Hospital & Private Clinic has got the excellent lab support and works synergistically with the Hospital in order to provide prompt and efficient clinical lab services to the patients.The laboratory support does cover not the very specific needs but also other associated medical conditions that a  patient may have simultaneously with diseases. The lab support covers almost all the medical conditions that require of the tests."
+    },
+    {
+      "id": "04",
+      "image": "https://images.unsplash.com/photo-1619025873875-59dfdd2bbbd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "name": "Ambulance Service",
+      "headings": "The Ambulance service at Labaid Hospital provides emergency support to patients who require it. In order to bring patients who call for ambulance they need to provide their home address and or telephone and cellphone number to the ambulance drivers.",
+      "details": " The Ambulance service at Moon Hospital provides emergency support to patients who require it. In order to bring patients who call for ambulance they need to provide their home address and or telephone and cellphone number to the ambulance drivers. Also, the Emergency department, customer care and call center extend coordinated efforts to bring the patient from the patient’s residence. In case of patients being discharged from hospital ambulance is provided to the patient where emergency department takes initiative. If the patient dies during the course of management utmost effort is extended to carry the dead bodies to desired destinations. The Ambulance service maintains a high level of coordination between the Emergency department and other concerned departments like customer care, duty stations etc. "
+    },
+    {
+      "id": "05",
+      "image": "https://images.unsplash.com/photo-1642055514517-7b52288890ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "name": "Pharmacy Service",
+      "headings": "Moon Hospital is rich in medicine stock and has a large pool of pharmacies with full service centralized with out-patient and in-patient hospital pharmacies. ",
+      "details": "Moon Hospital is rich in medicine stock and has a large pool of pharmacies with full service centralized with out-patient and in-patient hospital pharmacies. Moon Pharmacy is fully equipped to cater to the medication needs of its customers round-the-clock. Services are provided for all in-patients, as well as those patients served by our out-patient service departments and clinics. There are a total of six pharmacies comprising ofOutdoor pharmacy."
+    },
+    {
+      "id": "06",
+      "image": "https://images.unsplash.com/photo-1606811971618-4486d14f3f99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "name": "Dental Care",
+      "headings": "The Moon Dental Clinic is an international standard, dependable and technology driven modern dental clinic. The professionals and expertise are committed to meet all your dental needs in an environment of serene privacy, comfort and professionalism.",
+      "details": "The Moon Dental Clinic is an international standard, dependable and technology driven modern dental clinic. The professionals and expertise are committed to meet all your dental needs in an environment of serene privacy, comfort and professionalism. Being the pioneer hospital oriented dental clinic, we can afford something more than dentistry, including all sorts of maxillofacial surgery and reconstructive & cosmetic surgery. New and updated concepts are always endured here to provide you with a world of exquisite dentistry. We are open twelve hours round the day (9AM – 9PM) at your service."
+    }
+  ]
